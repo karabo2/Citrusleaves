@@ -1,0 +1,4 @@
+downlaod Critus dataset from Mendely. and make sure that path to citrus is as in the Jupiter notebook.
+delete the Melanose data because it contains none leaves data and it has a low count. 
+
+the model is to big coudln't upload. but buy running the code you obtain the model
